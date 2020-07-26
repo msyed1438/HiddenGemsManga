@@ -1,4 +1,4 @@
-# HiddenGemsManga
+## HiddenGemsManga
 
 All Time Classics:
 
@@ -8,6 +8,19 @@ One Piece
 
 Bleach
 
+Dragonball
+
 Rave Master
 
 Holyland
+
+Kenshin
+
+History's Strongest Disciple
+
+Yuyu Hakusho
+
+Zatchbell
+
+GTO
+
